@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearningApp</string>
+    <string name="app_text">Тест</string>
+    <string name="quiz_text">Стамбул - столица Турции</string>
+    <string name="quiz_btn">К вопросам</string>
+    <string name="quiz_title">Вопросы</string>
+    <string name="action_green">Зеленый фон</string>
+    <string name="action_red">Красный фон</string>
+    <string name="quiz_yes">Да</string>
+    <string name="quiz_no">Нет</string>
+    <string name="correct">Верно</string>
+    <string name="incorrect">Не верно</string>
+</resources>
