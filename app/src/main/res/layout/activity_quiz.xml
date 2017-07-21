@@ -11,13 +11,12 @@
         android:id="@+id/quizContent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/quiz_text"
         android:padding="24dp"/>
 
-    <!--<LinearLayout
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">-->
+        android:orientation="horizontal">
 
         <Button
             android:id="@+id/buttonYes"
@@ -31,6 +30,25 @@
             android:layout_height="wrap_content"
             android:text="@string/quiz_no" />
 
-    <!--</LinearLayout>-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonCheat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz_cheat"/>
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz_next"/>
+
+    </LinearLayout>
 
 </LinearLayout>

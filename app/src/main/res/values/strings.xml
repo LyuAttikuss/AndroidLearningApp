@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">LearningApp</string>
     <string name="app_text">Тест</string>
-    <string name="quiz_text">Стамбул - столица Турции</string>
+    <string name="quiz_cities">Стамбул - столица Турции</string>
+    <string name="quiz_lakes">Ладожское - самое глубокое озеро</string>
     <string name="quiz_btn">К вопросам</string>
     <string name="quiz_title">Вопросы</string>
     <string name="action_green">Зеленый фон</string>
@@ -10,4 +11,9 @@
     <string name="quiz_no">Нет</string>
     <string name="correct">Верно</string>
     <string name="incorrect">Не верно</string>
+    <string name="quiz_next">Далее</string>
+    <string name="quiz_cheat">Ответ</string>
+    <string name="quiz_cheated">Подглядел!</string>
+    <string name="warning_text">Вы уверены?</string>
+    <string name="show_answer">Показать ответ</string>
 </resources>
